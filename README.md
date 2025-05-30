@@ -73,11 +73,11 @@ python3 scripts/model_merger.py --local_dir /path/to/checkpoints
 We have taken note of the training instability issue with GRPO. We have selected the last checkpoint before the training collapse and will continue working to resolve this problem in the future.
 
 ## 💾 Dataset and Pretrained Models
-[Link](https://) to download the Point-CoT dataset. For images part, please refer to the [Mammoth-VL](https://mammoth-vl.github.io) dataset.
+[Link](https://drive.google.com/file/d/1Nk3WV203ZXsu_CAQHCpIEkge0cck0U2u/view?usp=share_link) to download the Point-CoT dataset. For images part, please refer to the [Mammoth-VL](https://mammoth-vl.github.io) dataset.
 
-[Link](https://) to download the pretrained model checkpoints for Point-SFT.
+[Link](https://huggingface.co/kodenii/Point-SFT) to download the pretrained model checkpoints for Point-SFT.
 
-[Link](https://) to download the pretrained model checkpoints for Point-RFT.
+[Link](https://huggingface.co/kodenii/Point-RFT) to download the pretrained model checkpoints for Point-RFT.
 
 
 ## 🤝 Acknowledgements
