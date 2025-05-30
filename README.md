@@ -4,6 +4,7 @@
 Official implementation of "Point-RFT: Improving Multimodal Visual Reasoning with Visually Grounded Thoughts in Reinforcement Learning".
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19702-b31b1b.svg)](https://arxiv.org/abs/2505.19702)
+[![Project](https://img.shields.io/badge/Project-Website-orange)](https://kodenii.github.io/point-rft-web/)
 
 ![Point-RFT](./assets/main.png)
 
